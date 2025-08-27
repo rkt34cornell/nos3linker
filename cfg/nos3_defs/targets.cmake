@@ -103,6 +103,7 @@ list(APPEND MISSION_GLOBAL_APPLIST
         sch
         to
         to_lab
+        macsm_mgr
     #
     # Components
     #

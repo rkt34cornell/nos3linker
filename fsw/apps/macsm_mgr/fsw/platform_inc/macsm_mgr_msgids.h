@@ -1,0 +1,7 @@
+#ifndef MACSM_MGR_MSGIDS_H
+#define MACSM_MGR_MSGIDS_H
+
+#define MACSM_MGR_CMD_MID     0x18F0
+#define MACSM_MGR_HK_TLM_MID  0x08F0
+
+#endif

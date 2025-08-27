@@ -1,0 +1,6 @@
+#ifndef MACSM_MGR_PERFIDS_H
+#define MACSM_MGR_PERFIDS_H
+
+#define MACSM_MGR_MAIN_TASK_PERF_ID 95
+
+#endif

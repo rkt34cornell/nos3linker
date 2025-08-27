@@ -1,0 +1,14 @@
+#ifndef MACSM_MGR_EVENTS_H
+#define MACSM_MGR_EVENTS_H
+
+enum
+{
+    MACSM_MGR_STARTUP_INF_EID = 1,
+    MACSM_MGR_UNLOAD_INF_EID  = 2,
+    MACSM_MGR_LOAD_INF_EID    = 3,
+    MACSM_MGR_RELOAD_INF_EID  = 4,
+    MACSM_MGR_ERROR_EID       = 5,
+    MACSM_MGR_DENY_EID        = 6
+};
+
+#endif
